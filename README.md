@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nimay Raval 👋
 
-<!--
-**ravalnimay83/ravalnimay83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at DDU, Nadiad
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Data Structures & Algorithms
+- Java
+- C++
+- Object-Oriented Programming
+- Android Devlopment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested In:
+- Software Development
+- Artificial Intelligence
+- Problem Solving
+
+🌱 Current Goal:
+- Become placement-ready through strong projects and DSA
+- Publish a research
+
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/raval-nimay-786a31294
